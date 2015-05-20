@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'donde'
+
+Donde::Cli.start
